@@ -1,0 +1,22 @@
+body{
+  background-color:#4B6276;
+  color:#fff;
+  text-transform: capitalize;
+
+}
+.border{
+    background-color:rgb(41, 182, 83);
+    border-radius:14px;
+    padding:80px;
+    /* width:80%; */
+  }
+  .navbar{
+      background-color: #F4F6F7;
+  }
+  .navbar a{
+      color:#464646;
+      font-size: 17px;
+  } 
+  .logi a{
+      color: rgb(187, 8, 8)
+  }
